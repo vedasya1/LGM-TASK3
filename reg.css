@@ -1,0 +1,14 @@
+table{
+	margin-top: 100px;
+	text-align: center;
+	background: rgb(53, 119, 128);
+	color: rgb(254, 222, 124);
+}
+
+#show th, #show td{
+	padding: 15px;
+}
+
+#btna td input{
+	width: 100%;
+}
